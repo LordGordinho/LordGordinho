@@ -20,7 +20,7 @@
   <img align="center" alt="panda-pic" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2021/09/imagens-e-gifs-fofos-para-baixar-4.gif">
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
   <br> 
   *probably the snake is starving* 🐍
 
