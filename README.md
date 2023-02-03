@@ -21,11 +21,11 @@
   <img align="center" alt="panda-pic" height="250" style="border-radius:50px;" src="https://giffiles.alphacoders.com/112/112609.gif">
 
   <div>
-</div style="margin: 0 auto;">
+
 ![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
   <br> 
   *probably the snake is starving* 🐍
-</div>
+
 
   <br>
     <div align='center'> 
