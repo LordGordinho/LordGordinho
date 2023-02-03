@@ -8,7 +8,7 @@
 </div>
   
 
-<br>
+<br><br><br>
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg">
@@ -17,8 +17,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <br><br><br><br>
-  <img align="center" alt="panda-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/f4/bf/62/f4bf62b4de7f992c58a05606c0282392.gif">
+  <br><br><br>
+  <img align="center" alt="panda-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/122bf549284ba67cf194d009d9a1a1a1/tumblr_osxzfwQ0YC1r94kvzo1_500.gifv">
 </div>
 
 ![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
