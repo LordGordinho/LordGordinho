@@ -22,7 +22,7 @@
 
   <div>
 
-![Snake animation](https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.svg)
+![https://github.com/matheusaragaofs/matheusaragaofs/blob/output/github-contribution-grid-snake.sv](https://github.com/LordGordinho/LordGordinho/blob/master/github-contribution-grid-snake.svg)
   <br> 
   *probably the snake is starving* 🐍
 
