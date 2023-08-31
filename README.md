@@ -3,7 +3,7 @@
 <div align="center" style="display:flex " >
 <div align="center">
   <a href="https://github.com/LordGordinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordGordinho&show_icons=true&theme=neon&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordGordinho&show_icons=true&theme=neon&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordGordinho&layout=compact&theme=neon"/>
 </div>
   
